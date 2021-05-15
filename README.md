@@ -1,2 +1,2 @@
-# playlist
-playlist of sublime songs
+# PLAYLIST
+Playlist of sublime songs.
